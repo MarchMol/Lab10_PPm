@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab10_PPm</string>
+    <string name="prefs_file">com.example.lab10_ppm.PREFERENCE_FILE_KEY</string>
+</resources>
